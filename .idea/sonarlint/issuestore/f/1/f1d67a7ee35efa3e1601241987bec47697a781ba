@@ -1,0 +1,20 @@
+
+P
+java:S1141'"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(à…÷ãşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(÷‘¼±ÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ê¥åóøÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.( Ê®Üşÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(Œ¦ÿ‡øÿÿÿÿ
+E	java:S106*"+Replace this use of System.out by a logger.(ê¥åóøÿÿÿÿ
+@	java:S1066"+Replace this use of System.out by a logger.(ø´Ó
+E	java:S1068"+Replace this use of System.out by a logger.(ÿñ‰¹úÿÿÿÿ
+@	java:S106<"+Replace this use of System.out by a logger.(åÊïÀ
+E	java:S106>"+Replace this use of System.out by a logger.(ÿñ‰¹úÿÿÿÿ
+@	java:S106M"+Replace this use of System.out by a logger.(˜Ê’†
+?
+java:S2140V")Use "java.util.Random.nextInt()" instead.(Çö‘¸
+D
+java:S2140W")Use "java.util.Random.nextInt()" instead.(ôÉñÇøÿÿÿÿ
+@	java:S106`"+Replace this use of System.out by a logger.(ÙûØ
